@@ -1,0 +1,11 @@
+
+    .tick::before {
+        content: "\210E";
+        border: 1px solid black;
+        border-radius: 100%;
+        padding: 2px;
+        display: inline-block;
+        height: 18px;
+        width: 18px;
+        text-align: center;
+    }
